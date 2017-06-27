@@ -13,20 +13,19 @@ string replace(string subject, const string& search, const string& replace) {
     }
     return subject;
 }
-int main()
+int main(int argc, char *argv[])
 {
-    string filePath;
+    string filePath(argv[1]);
 
-    cout << "Running v1.0 of space-remover" << endl;
-    cout << "Please provide the path to the file you wish to remove spaces from." << endl;
-
-    cin >> filePath;
+    string outputFileName;
+    outputFileName = filePath.substr(filePath.find_last_of("\\") + 1, filePath.find(".") ) + "_modified";
+    cout << outputFileName << endl;
 
     ifstream inputFile;
     inputFile.open(filePath);
 
     ofstream outputFile;
-    outputFile.open("output.csv");
+    outputFile.open(outputFileName);
 
     string currentLine;
     string line;
@@ -42,6 +41,7 @@ int main()
     }
     inputFile.close();
     outputFile.close();
+
 
     return 0;
 }
