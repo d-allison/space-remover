@@ -1,15 +1,18 @@
 #include <iostream>
 #include <string>
 #include <fstream>
-#include <regex>
+
 
 using namespace std;
 
-string replace(string const & in, string const & from, string const & to)
-{
-        return regex_replace(in, regex(from), to);
+string replace(string subject, const string& search, const string& replace) {
+    size_t pos = 0;
+    while ((pos = subject.find(search, pos)) != string::npos) {
+         subject.replace(pos, search.length(), replace);
+         pos += replace.length();
+    }
+    return subject;
 }
-
 int main()
 {
     string filePath;
@@ -39,8 +42,6 @@ int main()
     }
     inputFile.close();
     outputFile.close();
-
-
 
     return 0;
 }

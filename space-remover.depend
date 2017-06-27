@@ -6,3 +6,9 @@
 	<algorithm>
 	<regex>
 
+1498579477 source:c:\users\dan\downloads\space-remover-1.0\main.cpp
+	<iostream>
+	<string>
+	<fstream>
+	<regex>
+
