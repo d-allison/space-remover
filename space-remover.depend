@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1498571992 source:/home/dan/Documents/Coding/space-remover/main.cpp
+	<iostream>
+	<string>
+	<fstream>
+	<algorithm>
+	<regex>
+
