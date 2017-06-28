@@ -18,7 +18,13 @@ int main(int argc, char *argv[])
     string filePath(argv[1]);
 
     string outputFileName;
-    outputFileName = filePath.substr(filePath.find_last_of("\\") + 1, filePath.find(".") ) + "_modified";
+    outputFileName = filePath.substr(filePath.find_last_of("\\") + 1, filePath.find('.') - filePath.find_last_of("\\") - 1 ) + "_mod" + filePath.substr(filePath.find_last_of('.'), filePath.length() - filePath.find_last_of('.'));
+
+    cout << filePath << endl;
+    cout << filePath.find_last_of("\\") + 1 << endl;
+    cout << filePath.find('.') << endl;
+
+
     cout << outputFileName << endl;
 
     ifstream inputFile;
@@ -42,6 +48,8 @@ int main(int argc, char *argv[])
     inputFile.close();
     outputFile.close();
 
+    int end;
+    cin >> end;
 
     return 0;
 }

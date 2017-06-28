@@ -1,0 +1,126 @@
+Plate ID, Echo ID, Plate Name, Plate Barcode, Plate Type, Plate Category, Lid Type, Sealed, Plate Status, Plate State, Original Location, Final Location, Current Location, Rotation
+107209, 1, Source Plate[1], 101A001A, 1536LDV, Source, , True, OK, Complete, liconic://Hotel/1/1/, liconic://Hotel/1/1/, liconic://Hotel/1/1/, 270
+107100, 26, Destination Plate[1], GPR65723, ThermoNunc 267462 PP White, Destination, , True, OK, Complete, liconic://Incubator/1/1/, liconic://Incubator/1/1/, liconic://Incubator/1/1/, 270
+107107, 27, Destination Plate[2], GPR65724, ThermoNunc 267462 PP White, Destination, , True, OK, Complete, liconic://Incubator/1/2/, liconic://Incubator/1/2/, liconic://Incubator/1/2/, 270
+107108, 28, Destination Plate[3], GPR65725, ThermoNunc 267462 PP White, Destination, , True, OK, Complete, liconic://Incubator/1/3/, liconic://Incubator/1/3/, liconic://Incubator/1/3/, 270
+107113, 29, Destination Plate[4], GPR65726, ThermoNunc 267462 PP White, Destination, , True, OK, Complete, liconic://Incubator/1/4/, liconic://Incubator/1/4/, liconic://Incubator/1/4/, 270
+107210, 2, Source Plate[2], 101A002A, 1536LDV, Source, , True, OK, Complete, liconic://Hotel/1/2/, liconic://Hotel/1/2/, liconic://Hotel/1/2/, 270
+107121, 30, Destination Plate[5], GPR65727, ThermoNunc 267462 PP White, Destination, , True, OK, Complete, liconic://Incubator/1/5/, liconic://Incubator/1/5/, liconic://Incubator/1/5/, 270
+107126, 31, Destination Plate[6], GPR65728, ThermoNunc 267462 PP White, Destination, , True, OK, Complete, liconic://Incubator/1/6/, liconic://Incubator/1/6/, liconic://Incubator/1/6/, 270
+107132, 32, Destination Plate[7], GPR65729, ThermoNunc 267462 PP White, Destination, , True, OK, Complete, liconic://Incubator/1/7/, liconic://Incubator/1/7/, liconic://Incubator/1/7/, 270
+107133, 33, Destination Plate[8], GPR65730, ThermoNunc 267462 PP White, Destination, , True, OK, Complete, liconic://Incubator/1/8/, liconic://Incubator/1/8/, liconic://Incubator/1/8/, 270
+107211, 3, Source Plate[3], 101A003A, 1536LDV, Source, , True, OK, Complete, liconic://Hotel/1/3/, liconic://Hotel/1/3/, liconic://Hotel/1/3/, 270
+107139, 34, Destination Plate[9], GPR65731, ThermoNunc 267462 PP White, Destination, , True, OK, Complete, liconic://Incubator/1/9/, liconic://Incubator/1/9/, liconic://Incubator/1/9/, 270
+107146, 35, Destination Plate[10], GPR65732, ThermoNunc 267462 PP White, Destination, , True, OK, Complete, liconic://Incubator/1/10/, liconic://Incubator/1/10/, liconic://Incubator/1/10/, 270
+107151, 36, Destination Plate[11], GPR65733, ThermoNunc 267462 PP White, Destination, , True, OK, Complete, liconic://Incubator/1/11/, liconic://Incubator/1/11/, liconic://Incubator/1/11/, 270
+107156, 37, Destination Plate[12], GPR65734, ThermoNunc 267462 PP White, Destination, , True, OK, Complete, liconic://Incubator/1/12/, liconic://Incubator/1/12/, liconic://Incubator/1/12/, 270
+107212, 4, Source Plate[4], 101A004A, 1536LDV, Source, , True, OK, Complete, liconic://Hotel/1/4/, liconic://Hotel/1/4/, liconic://Hotel/1/4/, 270
+107158, 38, Destination Plate[13], GPR65735, ThermoNunc 267462 PP White, Destination, , True, OK, Complete, liconic://Incubator/1/13/, liconic://Incubator/1/13/, liconic://Incubator/1/13/, 270
+107167, 39, Destination Plate[14], GPR65736, ThermoNunc 267462 PP White, Destination, , True, OK, Complete, liconic://Incubator/1/14/, liconic://Incubator/1/14/, liconic://Incubator/1/14/, 270
+107170, 40, Destination Plate[15], GPR65737, ThermoNunc 267462 PP White, Destination, , True, OK, Complete, liconic://Incubator/1/15/, liconic://Incubator/1/15/, liconic://Incubator/1/15/, 270
+107177, 41, Destination Plate[16], GPR65738, ThermoNunc 267462 PP White, Destination, , True, OK, Complete, liconic://Incubator/1/16/, liconic://Incubator/1/16/, liconic://Incubator/1/16/, 270
+107213, 5, Source Plate[5], 101A005A, 1536LDV, Source, , True, OK, Complete, liconic://Hotel/1/5/, liconic://Hotel/1/5/, liconic://Hotel/1/5/, 270
+107178, 42, Destination Plate[17], GPR65739, ThermoNunc 267462 PP White, Destination, , True, OK, Complete, liconic://Incubator/1/17/, liconic://Incubator/1/17/, liconic://Incubator/1/17/, 270
+107183, 43, Destination Plate[18], GPR65740, ThermoNunc 267462 PP White, Destination, , True, OK, Complete, liconic://Incubator/1/18/, liconic://Incubator/1/18/, liconic://Incubator/1/18/, 270
+107189, 44, Destination Plate[19], GPR65741, ThermoNunc 267462 PP White, Destination, , True, OK, Complete, liconic://Incubator/1/19/, liconic://Incubator/1/19/, liconic://Incubator/1/19/, 270
+107193, 45, Destination Plate[20], GPR65742, ThermoNunc 267462 PP White, Destination, , True, OK, Complete, liconic://Incubator/1/20/, liconic://Incubator/1/20/, liconic://Incubator/1/20/, 270
+107214, 6, Source Plate[6], 101A006A, 1536LDV, Source, , True, OK, Complete, liconic://Hotel/1/6/, liconic://Hotel/1/6/, liconic://Hotel/1/6/, 270
+107201, 46, Destination Plate[21], GPR65743, ThermoNunc 267462 PP White, Destination, , True, OK, Complete, liconic://Incubator/1/21/, liconic://Incubator/1/21/, liconic://Incubator/1/21/, 270
+107208, 47, Destination Plate[22], GPR65744, ThermoNunc 267462 PP White, Destination, , True, OK, Complete, liconic://Incubator/1/22/, liconic://Incubator/1/22/, liconic://Incubator/1/22/, 270
+107114, 48, Destination Plate[23], GPR65745, ThermoNunc 267462 PP White, Destination, , True, OK, Complete, liconic://Incubator/3/4/, liconic://Incubator/3/4/, liconic://Incubator/3/4/, 270
+107122, 49, Destination Plate[24], GPR65746, ThermoNunc 267462 PP White, Destination, , True, OK, Complete, liconic://Incubator/3/5/, liconic://Incubator/3/5/, liconic://Incubator/3/5/, 270
+107215, 7, Source Plate[7], 101A007A, 1536LDV, Source, , True, OK, Complete, liconic://Hotel/1/7/, liconic://Hotel/1/7/, liconic://Hotel/1/7/, 270
+107125, 50, Destination Plate[25], GPR65747, ThermoNunc 267462 PP White, Destination, , True, OK, Complete, liconic://Incubator/3/6/, liconic://Incubator/3/6/, liconic://Incubator/3/6/, 270
+107129, 51, Destination Plate[26], GPR65748, ThermoNunc 267462 PP White, Destination, , True, OK, Complete, liconic://Incubator/3/7/, liconic://Incubator/3/7/, liconic://Incubator/3/7/, 270
+107134, 52, Destination Plate[27], GPR65749, ThermoNunc 267462 PP White, Destination, , True, OK, Complete, liconic://Incubator/3/8/, liconic://Incubator/3/8/, liconic://Incubator/3/8/, 270
+107142, 53, Destination Plate[28], GPR65750, ThermoNunc 267462 PP White, Destination, , True, OK, Complete, liconic://Incubator/3/9/, liconic://Incubator/3/9/, liconic://Incubator/3/9/, 270
+107216, 8, Source Plate[8], 101A008A, 1536LDV, Source, , True, OK, Complete, liconic://Hotel/1/8/, liconic://Hotel/1/8/, liconic://Hotel/1/8/, 270
+107145, 54, Destination Plate[29], GPR65751, ThermoNunc 267462 PP White, Destination, , True, OK, Complete, liconic://Incubator/3/10/, liconic://Incubator/3/10/, liconic://Incubator/3/10/, 270
+107149, 55, Destination Plate[30], GPR65752, ThermoNunc 267462 PP White, Destination, , True, OK, Complete, liconic://Incubator/3/11/, liconic://Incubator/3/11/, liconic://Incubator/3/11/, 270
+107157, 56, Destination Plate[31], GPR65753, ThermoNunc 267462 PP White, Destination, , True, OK, Complete, liconic://Incubator/3/12/, liconic://Incubator/3/12/, liconic://Incubator/3/12/, 270
+107162, 57, Destination Plate[32], GPR65754, ThermoNunc 267462 PP White, Destination, , True, OK, Complete, liconic://Incubator/3/13/, liconic://Incubator/3/13/, liconic://Incubator/3/13/, 270
+107217, 9, Source Plate[9], 101A009A, 1536LDV, Source, , True, OK, Complete, liconic://Hotel/1/9/, liconic://Hotel/1/9/, liconic://Hotel/1/9/, 270
+107166, 58, Destination Plate[33], GPR65755, ThermoNunc 267462 PP White, Destination, , True, OK, Complete, liconic://Incubator/3/14/, liconic://Incubator/3/14/, liconic://Incubator/3/14/, 270
+107168, 59, Destination Plate[34], GPR65756, ThermoNunc 267462 PP White, Destination, , True, OK, Complete, liconic://Incubator/3/15/, liconic://Incubator/3/15/, liconic://Incubator/3/15/, 270
+107173, 60, Destination Plate[35], GPR65757, ThermoNunc 267462 PP White, Destination, , True, OK, Complete, liconic://Incubator/3/16/, liconic://Incubator/3/16/, liconic://Incubator/3/16/, 270
+107181, 61, Destination Plate[36], GPR65758, ThermoNunc 267462 PP White, Destination, , True, OK, Complete, liconic://Incubator/3/17/, liconic://Incubator/3/17/, liconic://Incubator/3/17/, 270
+107218, 10, Source Plate[10], 101A010A, 1536LDV, Source, , True, OK, Complete, liconic://Hotel/1/10/, liconic://Hotel/1/10/, liconic://Hotel/1/10/, 270
+107185, 62, Destination Plate[37], GPR65759, ThermoNunc 267462 PP White, Destination, , True, OK, Complete, liconic://Incubator/3/18/, liconic://Incubator/3/18/, liconic://Incubator/3/18/, 270
+107188, 63, Destination Plate[38], GPR65760, ThermoNunc 267462 PP White, Destination, , True, OK, Complete, liconic://Incubator/3/19/, liconic://Incubator/3/19/, liconic://Incubator/3/19/, 270
+107194, 64, Destination Plate[39], GPR65761, ThermoNunc 267462 PP White, Destination, , True, OK, Complete, liconic://Incubator/3/20/, liconic://Incubator/3/20/, liconic://Incubator/3/20/, 270
+107102, 65, Destination Plate[40], GPR65762, ThermoNunc 267462 PP White, Destination, , True, OK, Complete, liconic://Incubator/2/1/, liconic://Incubator/2/1/, liconic://Incubator/2/1/, 270
+107219, 11, Source Plate[11], 101A011A, 1536LDV, Source, , True, OK, Complete, liconic://Hotel/1/11/, liconic://Hotel/1/11/, liconic://Hotel/1/11/, 270
+107104, 66, Destination Plate[41], GPR65763, ThermoNunc 267462 PP White, Destination, , True, OK, Complete, liconic://Incubator/2/2/, liconic://Incubator/2/2/, liconic://Incubator/2/2/, 270
+107110, 67, Destination Plate[42], GPR65764, ThermoNunc 267462 PP White, Destination, , True, OK, Complete, liconic://Incubator/2/3/, liconic://Incubator/2/3/, liconic://Incubator/2/3/, 270
+107117, 68, Destination Plate[43], GPR65765, ThermoNunc 267462 PP White, Destination, , True, OK, Complete, liconic://Incubator/2/4/, liconic://Incubator/2/4/, liconic://Incubator/2/4/, 270
+107120, 69, Destination Plate[44], GPR65766, ThermoNunc 267462 PP White, Destination, , True, OK, Complete, liconic://Incubator/2/5/, liconic://Incubator/2/5/, liconic://Incubator/2/5/, 270
+107220, 12, Source Plate[12], 101A012A, 1536LDV, Source, , True, OK, Complete, liconic://Hotel/1/12/, liconic://Hotel/1/12/, liconic://Hotel/1/12/, 270
+107124, 70, Destination Plate[45], GPR65767, ThermoNunc 267462 PP White, Destination, , True, OK, Complete, liconic://Incubator/2/6/, liconic://Incubator/2/6/, liconic://Incubator/2/6/, 270
+107128, 71, Destination Plate[46], GPR65768, ThermoNunc 267462 PP White, Destination, , True, OK, Complete, liconic://Incubator/2/7/, liconic://Incubator/2/7/, liconic://Incubator/2/7/, 270
+107137, 72, Destination Plate[47], GPR65769, ThermoNunc 267462 PP White, Destination, , True, OK, Complete, liconic://Incubator/2/8/, liconic://Incubator/2/8/, liconic://Incubator/2/8/, 270
+107141, 73, Destination Plate[48], GPR65770, ThermoNunc 267462 PP White, Destination, , True, OK, Complete, liconic://Incubator/2/9/, liconic://Incubator/2/9/, liconic://Incubator/2/9/, 270
+107221, 13, Source Plate[13], 101A013A, 1536LDV, Source, , True, OK, Complete, liconic://Hotel/1/13/, liconic://Hotel/1/13/, liconic://Hotel/1/13/, 270
+107147, 74, Destination Plate[49], GPR65771, ThermoNunc 267462 PP White, Destination, , True, OK, Complete, liconic://Incubator/2/10/, liconic://Incubator/2/10/, liconic://Incubator/2/10/, 270
+107148, 75, Destination Plate[50], GPR65772, ThermoNunc 267462 PP White, Destination, , True, OK, Complete, liconic://Incubator/2/11/, liconic://Incubator/2/11/, liconic://Incubator/2/11/, 270
+107155, 76, Destination Plate[51], GPR65773, ThermoNunc 267462 PP White, Destination, , True, OK, Complete, liconic://Incubator/2/12/, liconic://Incubator/2/12/, liconic://Incubator/2/12/, 270
+107161, 77, Destination Plate[52], GPR65774, ThermoNunc 267462 PP White, Destination, , True, OK, Complete, liconic://Incubator/2/13/, liconic://Incubator/2/13/, liconic://Incubator/2/13/, 270
+107222, 14, Source Plate[14], 101A014A, 1536LDV, Source, , True, OK, Complete, liconic://Hotel/1/14/, liconic://Hotel/1/14/, liconic://Hotel/1/14/, 270
+107163, 78, Destination Plate[53], GPR65775, ThermoNunc 267462 PP White, Destination, , True, OK, Complete, liconic://Incubator/2/14/, liconic://Incubator/2/14/, liconic://Incubator/2/14/, 270
+107172, 79, Destination Plate[54], GPR65776, ThermoNunc 267462 PP White, Destination, , True, OK, Complete, liconic://Incubator/2/15/, liconic://Incubator/2/15/, liconic://Incubator/2/15/, 270
+107176, 80, Destination Plate[55], GPR65777, ThermoNunc 267462 PP White, Destination, , True, OK, Complete, liconic://Incubator/2/16/, liconic://Incubator/2/16/, liconic://Incubator/2/16/, 270
+107179, 81, Destination Plate[56], GPR65778, ThermoNunc 267462 PP White, Destination, , True, OK, Complete, liconic://Incubator/2/17/, liconic://Incubator/2/17/, liconic://Incubator/2/17/, 270
+107223, 15, Source Plate[15], 101A015A, 1536LDV, Source, , True, OK, Complete, liconic://Hotel/1/15/, liconic://Hotel/1/15/, liconic://Hotel/1/15/, 270
+107187, 82, Destination Plate[57], GPR65779, ThermoNunc 267462 PP White, Destination, , True, OK, Complete, liconic://Incubator/2/18/, liconic://Incubator/2/18/, liconic://Incubator/2/18/, 270
+107190, 83, Destination Plate[58], GPR65780, ThermoNunc 267462 PP White, Destination, , True, OK, Complete, liconic://Incubator/2/19/, liconic://Incubator/2/19/, liconic://Incubator/2/19/, 270
+107196, 84, Destination Plate[59], GPR65781, ThermoNunc 267462 PP White, Destination, , True, OK, Complete, liconic://Incubator/2/20/, liconic://Incubator/2/20/, liconic://Incubator/2/20/, 270
+107202, 85, Destination Plate[60], GPR65782, ThermoNunc 267462 PP White, Destination, , True, OK, Complete, liconic://Incubator/2/21/, liconic://Incubator/2/21/, liconic://Incubator/2/21/, 270
+107224, 16, Source Plate[16], 101A016A, 1536LDV, Source, , True, OK, Complete, liconic://Hotel/1/16/, liconic://Hotel/1/16/, liconic://Hotel/1/16/, 270
+107207, 86, Destination Plate[61], GPR65783, ThermoNunc 267462 PP White, Destination, , True, OK, Complete, liconic://Incubator/2/22/, liconic://Incubator/2/22/, liconic://Incubator/2/22/, 270
+107098, 87, Destination Plate[62], GPR65784, ThermoNunc 267462 PP White, Destination, , True, OK, Complete, liconic://Incubator/3/1/, liconic://Incubator/3/1/, liconic://Incubator/3/1/, 270
+107103, 88, Destination Plate[63], GPR65785, ThermoNunc 267462 PP White, Destination, , True, OK, Complete, liconic://Incubator/3/2/, liconic://Incubator/3/2/, liconic://Incubator/3/2/, 270
+107112, 89, Destination Plate[64], GPR65786, ThermoNunc 267462 PP White, Destination, , True, OK, Complete, liconic://Incubator/3/3/, liconic://Incubator/3/3/, liconic://Incubator/3/3/, 270
+107225, 17, Source Plate[17], 103A001A, 1536LDV, Source, , True, OK, Complete, liconic://Hotel/3/1/, liconic://Hotel/3/1/, liconic://Hotel/3/1/, 270
+107198, 90, Destination Plate[65], GPR65787, ThermoNunc 267462 PP White, Destination, , True, OK, Complete, liconic://Incubator/3/21/, liconic://Incubator/3/21/, liconic://Incubator/3/21/, 270
+107204, 91, Destination Plate[66], GPR65788, ThermoNunc 267462 PP White, Destination, , True, OK, Complete, liconic://Incubator/3/22/, liconic://Incubator/3/22/, liconic://Incubator/3/22/, 270
+107099, 92, Destination Plate[67], GPR65789, ThermoNunc 267462 PP White, Destination, , True, OK, Complete, liconic://Incubator/4/1/, liconic://Incubator/4/1/, liconic://Incubator/4/1/, 270
+107106, 93, Destination Plate[68], GPR65790, ThermoNunc 267462 PP White, Destination, , True, OK, Complete, liconic://Incubator/4/2/, liconic://Incubator/4/2/, liconic://Incubator/4/2/, 270
+107226, 18, Source Plate[18], 103A002A, 1536LDV, Source, , True, OK, Complete, liconic://Hotel/3/2/, liconic://Hotel/3/2/, liconic://Hotel/3/2/, 270
+107109, 94, Destination Plate[69], GPR65791, ThermoNunc 267462 PP White, Destination, , True, OK, Complete, liconic://Incubator/4/3/, liconic://Incubator/4/3/, liconic://Incubator/4/3/, 270
+107116, 95, Destination Plate[70], GPR65792, ThermoNunc 267462 PP White, Destination, , True, OK, Complete, liconic://Incubator/4/4/, liconic://Incubator/4/4/, liconic://Incubator/4/4/, 270
+107119, 96, Destination Plate[71], GPR65793, ThermoNunc 267462 PP White, Destination, , True, OK, Complete, liconic://Incubator/4/5/, liconic://Incubator/4/5/, liconic://Incubator/4/5/, 270
+107123, 97, Destination Plate[72], GPR65794, ThermoNunc 267462 PP White, Destination, , True, OK, Complete, liconic://Incubator/4/6/, liconic://Incubator/4/6/, liconic://Incubator/4/6/, 270
+107227, 19, Source Plate[19], 103A003A, 1536LDV, Source, , True, OK, Complete, liconic://Hotel/3/3/, liconic://Hotel/3/3/, liconic://Hotel/3/3/, 270
+107131, 98, Destination Plate[73], GPR65795, ThermoNunc 267462 PP White, Destination, , True, OK, Complete, liconic://Incubator/4/7/, liconic://Incubator/4/7/, liconic://Incubator/4/7/, 270
+107135, 99, Destination Plate[74], GPR65796, ThermoNunc 267462 PP White, Destination, , True, OK, Complete, liconic://Incubator/4/8/, liconic://Incubator/4/8/, liconic://Incubator/4/8/, 270
+107140, 100, Destination Plate[75], GPR65797, ThermoNunc 267462 PP White, Destination, , True, OK, Complete, liconic://Incubator/4/9/, liconic://Incubator/4/9/, liconic://Incubator/4/9/, 270
+107144, 101, Destination Plate[76], GPR65798, ThermoNunc 267462 PP White, Destination, , True, OK, Complete, liconic://Incubator/4/10/, liconic://Incubator/4/10/, liconic://Incubator/4/10/, 270
+107228, 20, Source Plate[20], 103A004A, 1536LDV, Source, , True, OK, Complete, liconic://Hotel/3/4/, liconic://Hotel/3/4/, liconic://Hotel/3/4/, 270
+107150, 102, Destination Plate[77], GPR65799, ThermoNunc 267462 PP White, Destination, , True, OK, Complete, liconic://Incubator/4/11/, liconic://Incubator/4/11/, liconic://Incubator/4/11/, 270
+107154, 103, Destination Plate[78], GPR65800, ThermoNunc 267462 PP White, Destination, , True, OK, Complete, liconic://Incubator/4/12/, liconic://Incubator/4/12/, liconic://Incubator/4/12/, 270
+107160, 104, Destination Plate[79], GPR65801, ThermoNunc 267462 PP White, Destination, , True, OK, Complete, liconic://Incubator/4/13/, liconic://Incubator/4/13/, liconic://Incubator/4/13/, 270
+107164, 105, Destination Plate[80], GPR65802, ThermoNunc 267462 PP White, Destination, , True, OK, Complete, liconic://Incubator/4/14/, liconic://Incubator/4/14/, liconic://Incubator/4/14/, 270
+107229, 21, Source Plate[21], 103A005A, 1536LDV, Source, , True, OK, Complete, liconic://Hotel/3/5/, liconic://Hotel/3/5/, liconic://Hotel/3/5/, 270
+107169, 106, Destination Plate[81], GPR65803, ThermoNunc 267462 PP White, Destination, , True, OK, Complete, liconic://Incubator/4/15/, liconic://Incubator/4/15/, liconic://Incubator/4/15/, 270
+107175, 107, Destination Plate[82], GPR65804, ThermoNunc 267462 PP White, Destination, , True, OK, Complete, liconic://Incubator/4/16/, liconic://Incubator/4/16/, liconic://Incubator/4/16/, 270
+107182, 108, Destination Plate[83], GPR65805, ThermoNunc 267462 PP White, Destination, , True, OK, Complete, liconic://Incubator/4/17/, liconic://Incubator/4/17/, liconic://Incubator/4/17/, 270
+107186, 109, Destination Plate[84], GPR65806, ThermoNunc 267462 PP White, Destination, , True, OK, Complete, liconic://Incubator/4/18/, liconic://Incubator/4/18/, liconic://Incubator/4/18/, 270
+107230, 22, Source Plate[22], 103A006A, 1536LDV, Source, , True, OK, Complete, liconic://Hotel/3/6/, liconic://Hotel/3/6/, liconic://Hotel/3/6/, 270
+107191, 110, Destination Plate[85], GPR65807, ThermoNunc 267462 PP White, Destination, , True, OK, Complete, liconic://Incubator/4/19/, liconic://Incubator/4/19/, liconic://Incubator/4/19/, 270
+107195, 111, Destination Plate[86], GPR65808, ThermoNunc 267462 PP White, Destination, , True, OK, Complete, liconic://Incubator/4/20/, liconic://Incubator/4/20/, liconic://Incubator/4/20/, 270
+107200, 112, Destination Plate[87], GPR65809, ThermoNunc 267462 PP White, Destination, , True, OK, Complete, liconic://Incubator/4/21/, liconic://Incubator/4/21/, liconic://Incubator/4/21/, 270
+107206, 113, Destination Plate[88], GPR65810, ThermoNunc 267462 PP White, Destination, , True, OK, Complete, liconic://Incubator/4/22/, liconic://Incubator/4/22/, liconic://Incubator/4/22/, 270
+107231, 23, Source Plate[23], 103A007A, 1536LDV, Source, , True, OK, Complete, liconic://Hotel/3/7/, liconic://Hotel/3/7/, liconic://Hotel/3/7/, 270
+107101, 114, Destination Plate[89], GPR65811, ThermoNunc 267462 PP White, Destination, , True, OK, Complete, liconic://Incubator/5/1/, liconic://Incubator/5/1/, liconic://Incubator/5/1/, 270
+107105, 115, Destination Plate[90], GPR65812, ThermoNunc 267462 PP White, Destination, , True, OK, Complete, liconic://Incubator/5/2/, liconic://Incubator/5/2/, liconic://Incubator/5/2/, 270
+107111, 116, Destination Plate[91], GPR65813, ThermoNunc 267462 PP White, Destination, , True, OK, Complete, liconic://Incubator/5/3/, liconic://Incubator/5/3/, liconic://Incubator/5/3/, 270
+107115, 117, Destination Plate[92], GPR65814, ThermoNunc 267462 PP White, Destination, , True, OK, Complete, liconic://Incubator/5/4/, liconic://Incubator/5/4/, liconic://Incubator/5/4/, 270
+107232, 24, Source Plate[24], 103A008A, 1536LDV, Source, , True, OK, Complete, liconic://Hotel/3/8/, liconic://Hotel/3/8/, liconic://Hotel/3/8/, 270
+107118, 118, Destination Plate[93], GPR65815, ThermoNunc 267462 PP White, Destination, , True, OK, Complete, liconic://Incubator/5/5/, liconic://Incubator/5/5/, liconic://Incubator/5/5/, 270
+107127, 119, Destination Plate[94], GPR65816, ThermoNunc 267462 PP White, Destination, , True, OK, Complete, liconic://Incubator/5/6/, liconic://Incubator/5/6/, liconic://Incubator/5/6/, 270
+107130, 120, Destination Plate[95], GPR65817, ThermoNunc 267462 PP White, Destination, , True, OK, Complete, liconic://Incubator/5/7/, liconic://Incubator/5/7/, liconic://Incubator/5/7/, 270
+107136, 121, Destination Plate[96], GPR65818, ThermoNunc 267462 PP White, Destination, , True, OK, Complete, liconic://Incubator/5/8/, liconic://Incubator/5/8/, liconic://Incubator/5/8/, 270
+107233, 25, Source Plate[25], 103A009A, 1536LDV, Source, , True, OK, Complete, liconic://Hotel/3/9/, liconic://Hotel/3/9/, liconic://Hotel/3/9/, 270
+107138, 122, Destination Plate[97], GPR65819, ThermoNunc 267462 PP White, Destination, , True, OK, Complete, liconic://Incubator/5/9/, liconic://Incubator/5/9/, liconic://Incubator/5/9/, 270
+107143, 123, Destination Plate[98], GPR65820, ThermoNunc 267462 PP White, Destination, , True, OK, Complete, liconic://Incubator/5/10/, liconic://Incubator/5/10/, liconic://Incubator/5/10/, 270
+107152, 124, Destination Plate[99], GPR65821, ThermoNunc 267462 PP White, Destination, , True, OK, Complete, liconic://Incubator/5/11/, liconic://Incubator/5/11/, liconic://Incubator/5/11/, 270
+107153, 125, Destination Plate[100], GPR65822, ThermoNunc 267462 PP White, Destination, , True, OK, Complete, liconic://Incubator/5/12/, liconic://Incubator/5/12/, liconic://Incubator/5/12/, 270
